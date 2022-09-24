@@ -1,0 +1,22 @@
+.poke__api{
+font-size: 30px;
+color:yellow;   
+font-weight: bold;
+}
+.poke__clima{
+    font-size: 30px;
+    color: chartreuse;
+}
+.poke__rick{
+    font-size: 30px;
+    color:white;   
+}
+.acerca_de_mi__textob{
+    font-size: 24px;
+    text-align: justify;
+
+}
+.sliderimg{
+
+height: 96vh;
+}

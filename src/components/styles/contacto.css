@@ -1,0 +1,67 @@
+
+.contacto__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(fondo.jpg);
+    min-height: 100vh;
+}
+.contacto__form{
+    align-items: center;
+   display: flex;
+   flex-direction: column;
+   text-align: justify;
+   width: 200px;
+   
+}
+li{
+    list-style: none;
+    color: white;
+    
+}
+.contacto__label{
+    display: inline-block;
+    width: 80px;
+    margin-bottom: 10px;
+    
+}
+.contacto__redes{
+    display: flex;
+    flex-direction: row;
+  justify-content: space-between;
+  image-rendering: auto;
+  margin-bottom: 10px;
+  cursor: pointer;
+  border: solid 1px gray;
+  width: 180px;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: blueviolet;
+}
+h2{
+    font-size: 40px;
+    color: white;
+    margin-bottom: 39px;
+}
+h3{
+    font-size: 28px;
+    color: white;
+}
+.contacto__button{
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: blueviolet;
+    margin: 20px;
+}
+.contacto__facebook:hover{
+width: 40px;
+}
+.contacto__instagram:hover{
+    width: 40px;
+    
+    }
+.contacto__twitter:hover{
+        width: 40px;
+        }
